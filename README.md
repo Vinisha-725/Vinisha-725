@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vinisha-725&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vinisha-725&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinisha-725&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinisha-725&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vinisha-725&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
