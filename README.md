@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Deep Learning and AI/ML projects, focusing on real-world problem solving and model optimization.<br><br>🌱 I’m currently learning advanced Deep Learning concepts, PyTorch internals, and model deployment techniques using Flask. Alongside this, I’m also exploring frontend development with React.js to build full-stack AI applications.<br><br>👯 I’m looking to collaborate on AI/ML and Deep Learning projects, especially those involving computer vision, NLP, or end-to-end ML pipelines.<br><br>🤔 I’m looking for help with advanced PyTorch concepts such as custom training loops, model optimization, and performance tuning.<br><br>💬 Ask me about Machine Learning fundamentals, data preprocessing, model evaluation, and Python for data science.<br><br>📊 Interests: Deep Learning research, model deployment, MLOps basics, and building scalable AI applications.<br><br>⚡ Fun fact: I enjoy making websites for fun and always open to learn new things!
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vnisha_725?igsh=MTZhajVoY3ZocHN2Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinisha-sahoo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinisha.sahoo@gmail.com) 
 
