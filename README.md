@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Vinisha+Sahoo;AI+%26+Machine+Learning+Student;Full+Stack+Developer;Hackathon+Builder;Building+Useful+Things+With+AI" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vinisha-725&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
 ---
 
 # 🌐 Connect With Me
