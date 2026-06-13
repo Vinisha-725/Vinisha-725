@@ -41,6 +41,20 @@
 
 # 💻 Tech Stack
 
+
+## 🖥️ Loaded Modules
+
+| Module         |                                                                                |
+| -------------- | ------------------------------------------------------------------------------ |
+| 🧠 AI / ML     | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />                |
+| 🌐 Development | <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,spring" /> |
+| 🗄️ Data       | <img src="https://skillicons.dev/icons?i=mysql,postgres" />                    |
+| ☁️ Cloud       | <img src="https://skillicons.dev/icons?i=aws" />                               |
+| 🔧 Tools       | <img src="https://skillicons.dev/icons?i=git,github,vscode" />                 |
+| 💻 Languages   | <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />              |
+
+
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
