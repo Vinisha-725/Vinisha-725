@@ -41,12 +41,8 @@
 
 # 💻 Tech Stack
 
-
-## 🖥️ Loaded Modules
-
-| Module         |                                                                                |
 | -------------- | ------------------------------------------------------------------------------ |
-| 🧠 AI / ML     | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />                |
+| 🧠 AI / ML     | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn,numpy,pandas" />  |
 | 🌐 Development | <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,spring" /> |
 | 🗄️ Data       | <img src="https://skillicons.dev/icons?i=mysql,postgres" />                    |
 | ☁️ Cloud       | <img src="https://skillicons.dev/icons?i=aws" />                               |
