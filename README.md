@@ -41,13 +41,14 @@
 
 # 💻 Tech Stack
 
-| -------------- | ------------------------------------------------------------------------------ |
-| 🧠 AI / ML     | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn,numpy,pandas" />  |
+| Module | Stack |
+|--------|-------|
+| 🧠 AI / ML | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn" /> |
 | 🌐 Development | <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,spring" /> |
-| 🗄️ Data       | <img src="https://skillicons.dev/icons?i=mysql,postgres" />                    |
-| ☁️ Cloud       | <img src="https://skillicons.dev/icons?i=aws" />                               |
-| 🔧 Tools       | <img src="https://skillicons.dev/icons?i=git,github,vscode" />                 |
-| 💻 Languages   | <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />              |
+| 🗄️ Data | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> |
+| ☁️ Cloud | <img src="https://skillicons.dev/icons?i=aws" /> |
+| 🔧 Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+| 💻 Languages | <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" /> |
 
 
 
