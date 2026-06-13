@@ -101,14 +101,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinisha-725\&theme=github_dark)
 
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Vinisha-725/Vinisha-725/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 <p align="center">
   <i>Building useful AI products one project at a time 🚀</i>
 </p>
