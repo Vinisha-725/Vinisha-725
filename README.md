@@ -2,13 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=VINISHA%20SAHOO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20%7C%20HACKATHONS&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=AI+%26+Machine+Learning+Student;Full+Stack+Developer;Building+Things+That+Actually+Matter;Hackathon+Builder+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=AI+%26+Machine+Learning+Student;Building+Things+With+AI;Hackathon+Builder+🚀"/>
 
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Vinisha+Sahoo;AI+%26+Machine+Learning+Student;Full+Stack+Developer;Hackathon+Builder;Building+Useful+Things+With+AI" />
-</p>
 
 ---
 
