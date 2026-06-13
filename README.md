@@ -103,32 +103,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Vinisha-725\&theme=radical\&no-frame=true\&no-bg=true\&column=4)
-
----
-
-# 📌 Currently Building
-
-* 🤖 AI Interview & Hiring Readiness Systems
-* 🌍 Geospatial Analytics Platforms
-* 🧠 Agentic AI Applications
-* 🎯 Hackathon-Ready SaaS Products
-* 📊 ML-Powered Recommendation Systems
-
----
-
-# 📚 Currently Learning
-
-* Advanced Deep Learning
-* MLOps & Deployment
-* LLM Engineering
-* Multi-Agent Systems
-* Cloud Infrastructure
-
----
-
 # 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Vinisha-725/Vinisha-725/blob/output/github-contribution-grid-snake-dark.svg)
