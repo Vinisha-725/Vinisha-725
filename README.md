@@ -43,7 +43,7 @@
 
 | Module | Stack |
 |--------|-------|
-| 🧠 AI / ML | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn" /> |
+| 🧠 AI / ML | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /> <img src="https://cdn.simpleicons.org/keras/D00000" height="40"/> |
 | 🌐 Development | <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,spring" /> |
 | 🗄️ Data | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> |
 | ☁️ Cloud | <img src="https://skillicons.dev/icons?i=aws" /> |
