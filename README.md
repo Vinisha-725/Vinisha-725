@@ -60,7 +60,3 @@
 <p align="center">
   <i>Building useful AI products one project at a time 🚀</i>
 </p>
-
-## 🌍 Contribution Globe
-
-![](https://raw.githubusercontent.com/Vinisha-725/Vinisha-725/main/profile-3d-contrib/profile-night-rainbow.svg)
