@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 # 💻 Tech Stack
 
@@ -19,7 +18,6 @@
 | 🔧 Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 | 💻 Languages | <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" /> |
 
----
 
 # 🚀 Featured Projects
 
@@ -32,7 +30,6 @@
 | 📚 Book Recommendation System       | Recommendation engine using collaborative filtering and ML            |
 | 🌾 Agricultural Land Classification | CNN and Vision Transformer based satellite image classification       |
 
----
 
 # 📊 GitHub Statistics
 
@@ -45,13 +42,11 @@
   <img src="https://streak-stats.demolab.com?user=Vinisha-725&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 # 📈 Contribution Graph
 
 [![Vinisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinisha-725\&theme=tokyo-night)](https://github.com/Vinisha-725)
 
----
 
 # ⚡ GitHub Summary
 
